@@ -13,7 +13,6 @@ $ jupyter notebook
 
 
 # Extending and reusing the basic idea from these sources:
-* https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tavishcode/linkedin_analysis/master
 * https://medium.com/@tavish.gobindram/visualizing-my-linkedin-network-c4b232ab2ad0
 * https://docs.bokeh.org/en/latest/docs/user_guide/graph.html
 
