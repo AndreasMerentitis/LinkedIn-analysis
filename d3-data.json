@@ -1,0 +1,1519 @@
+{
+ "name": "My LinkedIn",
+ "children": [
+  {
+   "name": "Human, Resources",
+   "children": [
+    {
+     "name": "Yulia V."
+    },
+    {
+     "name": "Cleo J."
+    },
+    {
+     "name": "Xenia R."
+    },
+    {
+     "name": "Emma L."
+    },
+    {
+     "name": "Marcel K."
+    }
+   ]
+  },
+  {
+   "name": "Technology",
+   "children": [
+    {
+     "name": "Parisa J."
+    },
+    {
+     "name": "Pavlos P."
+    },
+    {
+     "name": "Dr. Daniel R."
+    }
+   ]
+  },
+  {
+   "name": "Coach",
+   "children": [
+    {
+     "name": "Clemens H."
+    },
+    {
+     "name": "Andreas M."
+    }
+   ]
+  },
+  {
+   "name": "People",
+   "children": [
+    {
+     "name": "Cory R."
+    },
+    {
+     "name": "Ingeborg D."
+    }
+   ]
+  },
+  {
+   "name": "Intern",
+   "children": [
+    {
+     "name": "Nishal P."
+    },
+    {
+     "name": "Souvik B."
+    },
+    {
+     "name": "Rudraksh A."
+    },
+    {
+     "name": "Sahil S."
+    },
+    {
+     "name": "Sebastian S."
+    }
+   ]
+  },
+  {
+   "name": "Researcher",
+   "children": [
+    {
+     "name": "Benedikt L."
+    },
+    {
+     "name": "Maksym T."
+    },
+    {
+     "name": "Tanhim I."
+    },
+    {
+     "name": "Nikolaos K."
+    },
+    {
+     "name": "Evangelia S."
+    }
+   ]
+  },
+  {
+   "name": "Senior, Sourcer",
+   "children": [
+    {
+     "name": "Luisa L."
+    },
+    {
+     "name": "Alexander (Alex) K."
+    }
+   ]
+  },
+  {
+   "name": "Engineer, Senior",
+   "children": [
+    {
+     "name": "Hossein K."
+    },
+    {
+     "name": "Shahid M."
+    },
+    {
+     "name": "Petra B."
+    },
+    {
+     "name": "Amir A."
+    },
+    {
+     "name": "Suresh A."
+    },
+    {
+     "name": "Marc G."
+    },
+    {
+     "name": "Oliver S."
+    },
+    {
+     "name": "Aldo L."
+    },
+    {
+     "name": "Katarzyna K."
+    },
+    {
+     "name": "Sanchit G."
+    },
+    {
+     "name": "Panayotis T."
+    },
+    {
+     "name": "Kannan K."
+    },
+    {
+     "name": "Andrzej K."
+    },
+    {
+     "name": "Ilya R."
+    },
+    {
+     "name": "Chris M."
+    },
+    {
+     "name": "Jayvardhan Reddy V."
+    },
+    {
+     "name": "Hassan A."
+    },
+    {
+     "name": "Pankaj K."
+    },
+    {
+     "name": "Micha\u0142 D."
+    },
+    {
+     "name": "Andreas M."
+    },
+    {
+     "name": "Georgios C."
+    },
+    {
+     "name": "Dilek S."
+    },
+    {
+     "name": "Dineshkarthik R."
+    }
+   ]
+  },
+  {
+   "name": "Data, Architect",
+   "children": [
+    {
+     "name": "Keside Kennard A."
+    },
+    {
+     "name": "Michiel V."
+    },
+    {
+     "name": "Mem B."
+    },
+    {
+     "name": "Jo\u00e3o R."
+    },
+    {
+     "name": "Mohamed Amine S."
+    }
+   ]
+  },
+  {
+   "name": "Artificial, Intelligence",
+   "children": [
+    {
+     "name": "Diego B."
+    },
+    {
+     "name": "Wael C."
+    },
+    {
+     "name": "Salim N."
+    },
+    {
+     "name": "Rehan S."
+    }
+   ]
+  },
+  {
+   "name": "Director",
+   "children": [
+    {
+     "name": "Adam K."
+    },
+    {
+     "name": "Lic. Martin G."
+    },
+    {
+     "name": "Kristina V."
+    },
+    {
+     "name": "Siobhan C."
+    },
+    {
+     "name": "Meliksah (Mel) S."
+    },
+    {
+     "name": "Jackey N."
+    },
+    {
+     "name": "Justin B."
+    },
+    {
+     "name": "Thomas L."
+    },
+    {
+     "name": "James D."
+    },
+    {
+     "name": "Josh W."
+    },
+    {
+     "name": "Aniela C."
+    },
+    {
+     "name": "Laura L."
+    }
+   ]
+  },
+  {
+   "name": "Student",
+   "children": [
+    {
+     "name": "Nikhila P."
+    },
+    {
+     "name": "Anitha Bhat T."
+    },
+    {
+     "name": "Shereen E."
+    }
+   ]
+  },
+  {
+   "name": "Professor",
+   "children": [
+    {
+     "name": "Tariq S."
+    },
+    {
+     "name": "Saud A."
+    },
+    {
+     "name": "Jocelyn C."
+    },
+    {
+     "name": "Bragoudakis Z."
+    },
+    {
+     "name": "Sepp H."
+    },
+    {
+     "name": "Pablo R."
+    }
+   ]
+  },
+  {
+   "name": "Scientist, Data",
+   "children": [
+    {
+     "name": "Pratham S."
+    },
+    {
+     "name": "Pau R."
+    },
+    {
+     "name": "Jafar S."
+    },
+    {
+     "name": "Aakash C."
+    },
+    {
+     "name": "Chafaa B."
+    },
+    {
+     "name": "Rakesh B."
+    },
+    {
+     "name": "Sergey Z."
+    },
+    {
+     "name": "Girish K."
+    },
+    {
+     "name": "Sean V."
+    },
+    {
+     "name": "Abdullah A."
+    },
+    {
+     "name": "Lucie B."
+    },
+    {
+     "name": "Shahidur R."
+    },
+    {
+     "name": "Moe S."
+    },
+    {
+     "name": "Pallavi .."
+    },
+    {
+     "name": "Simran S."
+    },
+    {
+     "name": "Vijaya Kumar  B."
+    },
+    {
+     "name": "Akshay S."
+    },
+    {
+     "name": "Celsa D."
+    },
+    {
+     "name": "Bishwarup B."
+    },
+    {
+     "name": "Konstantinos K."
+    },
+    {
+     "name": "Talha K."
+    },
+    {
+     "name": "Dr. Alexandros G. R."
+    },
+    {
+     "name": "Eduardo S."
+    },
+    {
+     "name": "Junpeng L."
+    },
+    {
+     "name": "David Praise  C."
+    },
+    {
+     "name": "Tochukwu O."
+    },
+    {
+     "name": "Patrick M."
+    },
+    {
+     "name": "r.sunil k."
+    },
+    {
+     "name": "chakshu g."
+    },
+    {
+     "name": "Kamal M."
+    },
+    {
+     "name": "Aditya J."
+    },
+    {
+     "name": "Riccardo C."
+    },
+    {
+     "name": "Reza K."
+    },
+    {
+     "name": "Lucas B."
+    },
+    {
+     "name": "Amin J."
+    },
+    {
+     "name": "Varun M."
+    },
+    {
+     "name": "Dhouha S."
+    },
+    {
+     "name": "Mehdi A."
+    },
+    {
+     "name": "Arsalan K."
+    },
+    {
+     "name": "Oxana G."
+    },
+    {
+     "name": "Yuxiang G."
+    },
+    {
+     "name": "Agnes v."
+    },
+    {
+     "name": "Sergio C."
+    },
+    {
+     "name": "Yao Y."
+    },
+    {
+     "name": "Jiajing C."
+    },
+    {
+     "name": "Sadeeq Akinyemi A."
+    },
+    {
+     "name": "Kashish S."
+    }
+   ]
+  },
+  {
+   "name": "Scientist, Research",
+   "children": [
+    {
+     "name": "Dumitru R."
+    },
+    {
+     "name": "Kumar S."
+    },
+    {
+     "name": "Jeff C."
+    },
+    {
+     "name": "Karim H."
+    },
+    {
+     "name": "Avrilia F."
+    },
+    {
+     "name": "Luis S."
+    }
+   ]
+  },
+  {
+   "name": "Master, Thesis",
+   "children": [
+    {
+     "name": "Walid E."
+    },
+    {
+     "name": "Shardul D."
+    },
+    {
+     "name": "Sirine I."
+    }
+   ]
+  },
+  {
+   "name": "Manager, Senior",
+   "children": [
+    {
+     "name": "Dumitru R."
+    },
+    {
+     "name": "Rishi S."
+    },
+    {
+     "name": "Achraf S."
+    },
+    {
+     "name": "Selim N."
+    },
+    {
+     "name": "Natalia K."
+    },
+    {
+     "name": "Johannes G."
+    },
+    {
+     "name": "Rahul B."
+    }
+   ]
+  },
+  {
+   "name": "Enterprise",
+   "children": [
+    {
+     "name": "Ollie D."
+    },
+    {
+     "name": "Rob M."
+    }
+   ]
+  },
+  {
+   "name": "Manager",
+   "children": [
+    {
+     "name": "DEEPAK P."
+    },
+    {
+     "name": "Mihaela C."
+    },
+    {
+     "name": "Glenn C."
+    },
+    {
+     "name": "Jo\u00e3o R."
+    },
+    {
+     "name": "Robert K."
+    },
+    {
+     "name": "Hajo M."
+    },
+    {
+     "name": "Akhilesh J."
+    }
+   ]
+  },
+  {
+   "name": "Sales, Manager",
+   "children": [
+    {
+     "name": "Rahul s."
+    },
+    {
+     "name": "Jade C."
+    }
+   ]
+  },
+  {
+   "name": "General, Manager",
+   "children": [
+    {
+     "name": "Kateryna O."
+    },
+    {
+     "name": "Marcin U."
+    },
+    {
+     "name": "Sergey G."
+    },
+    {
+     "name": "Agustin G."
+    },
+    {
+     "name": "Michal M."
+    },
+    {
+     "name": "Ralf K."
+    }
+   ]
+  },
+  {
+   "name": "Machine, Learning",
+   "children": [
+    {
+     "name": "Omar M."
+    },
+    {
+     "name": "Amogh S."
+    },
+    {
+     "name": "Tanuj J."
+    },
+    {
+     "name": "Jayant K."
+    },
+    {
+     "name": "Ashutosh R."
+    },
+    {
+     "name": "Michel S."
+    },
+    {
+     "name": "Shahid M."
+    },
+    {
+     "name": "Rehan S."
+    },
+    {
+     "name": "Nodari L."
+    },
+    {
+     "name": "Eduardo S."
+    },
+    {
+     "name": "Kamal A."
+    },
+    {
+     "name": "Yannis S."
+    },
+    {
+     "name": "Christian P."
+    },
+    {
+     "name": "Vasileios C."
+    },
+    {
+     "name": "Johannes G."
+    },
+    {
+     "name": "Yuxiang C."
+    },
+    {
+     "name": "Kasra M."
+    },
+    {
+     "name": "Oleksandr Z."
+    },
+    {
+     "name": "Hamed Z."
+    },
+    {
+     "name": "Alexander L."
+    },
+    {
+     "name": "Ralf H."
+    }
+   ]
+  },
+  {
+   "name": "Recruitment",
+   "children": [
+    {
+     "name": "Wasilij K."
+    },
+    {
+     "name": "Lewis F."
+    },
+    {
+     "name": "Marcel K."
+    }
+   ]
+  },
+  {
+   "name": "Consultant, Data",
+   "children": [
+    {
+     "name": "Matthew M."
+    },
+    {
+     "name": "Lewis M."
+    },
+    {
+     "name": "Rehan S."
+    },
+    {
+     "name": "Hugo T."
+    },
+    {
+     "name": "Anita O."
+    },
+    {
+     "name": "Sujit K."
+    },
+    {
+     "name": "Ayomide N."
+    },
+    {
+     "name": "Olivia E."
+    },
+    {
+     "name": "Salman S."
+    },
+    {
+     "name": "Hollie L."
+    },
+    {
+     "name": "Lisa Mareike S."
+    },
+    {
+     "name": "Martin R."
+    },
+    {
+     "name": "Vikrant V."
+    },
+    {
+     "name": "James R. P."
+    },
+    {
+     "name": "Jordan H."
+    },
+    {
+     "name": "Sohra P."
+    },
+    {
+     "name": "Eva B."
+    },
+    {
+     "name": "Nathalie Z."
+    },
+    {
+     "name": "Sven J."
+    }
+   ]
+  },
+  {
+   "name": "Chief, Officer",
+   "children": [
+    {
+     "name": "Javier F."
+    },
+    {
+     "name": "Marc S."
+    },
+    {
+     "name": "Johnny W."
+    },
+    {
+     "name": "Jurgen R."
+    },
+    {
+     "name": "Suresh K."
+    },
+    {
+     "name": "Dinesh G."
+    },
+    {
+     "name": "Daniel K."
+    },
+    {
+     "name": "S\u00e9bastien F."
+    },
+    {
+     "name": "Muhammad Zeeshan K."
+    },
+    {
+     "name": "Andreas M."
+    },
+    {
+     "name": "Igor S."
+    },
+    {
+     "name": "Falk W."
+    },
+    {
+     "name": "Bryan T."
+    },
+    {
+     "name": "Zacharias V."
+    },
+    {
+     "name": "Lucia H."
+    },
+    {
+     "name": "Phillip K."
+    },
+    {
+     "name": "Nathan A."
+    }
+   ]
+  },
+  {
+   "name": "Recruiter",
+   "children": [
+    {
+     "name": "Anne  W."
+    },
+    {
+     "name": "Anna \u0141."
+    },
+    {
+     "name": "Julia C."
+    }
+   ]
+  },
+  {
+   "name": "Tech, Recruiter",
+   "children": [
+    {
+     "name": "Micha\u0142 S."
+    },
+    {
+     "name": "Alexander (Alex) K."
+    },
+    {
+     "name": "Prakriti Y."
+    }
+   ]
+  },
+  {
+   "name": "Tech",
+   "children": [
+    {
+     "name": "Ramin G."
+    },
+    {
+     "name": "Srikant V."
+    }
+   ]
+  },
+  {
+   "name": "Director, Global",
+   "children": [
+    {
+     "name": "Michael A."
+    },
+    {
+     "name": "Geoffrey L."
+    }
+   ]
+  },
+  {
+   "name": "Director, Global",
+   "children": [
+    {
+     "name": "Andrea M."
+    },
+    {
+     "name": "Christel K."
+    }
+   ]
+  },
+  {
+   "name": "Business, Developer",
+   "children": [
+    {
+     "name": "Pedro A."
+    },
+    {
+     "name": "Raquel B."
+    }
+   ]
+  },
+  {
+   "name": "Business, Analyst",
+   "children": [
+    {
+     "name": "Keside Kennard A."
+    },
+    {
+     "name": "Bhuvana A."
+    },
+    {
+     "name": "Oleksii S."
+    },
+    {
+     "name": "Krzysztof W."
+    }
+   ]
+  },
+  {
+   "name": "Data, Analyst",
+   "children": [
+    {
+     "name": "Adinarayana D."
+    },
+    {
+     "name": "Hasan S."
+    },
+    {
+     "name": "Rajkumar Reddy K."
+    },
+    {
+     "name": "Ajay Y."
+    },
+    {
+     "name": "Michiel V."
+    },
+    {
+     "name": "Pijus S."
+    },
+    {
+     "name": "Sai S."
+    }
+   ]
+  },
+  {
+   "name": "Analyst",
+   "children": [
+    {
+     "name": "Artur D."
+    },
+    {
+     "name": "Josipa K."
+    },
+    {
+     "name": "Arunkumar K."
+    },
+    {
+     "name": "Emmanouil T."
+    }
+   ]
+  },
+  {
+   "name": "Web, Developer",
+   "children": [
+    {
+     "name": "Ahmed Amine M."
+    },
+    {
+     "name": "Rihab H."
+    },
+    {
+     "name": "Hanif K."
+    }
+   ]
+  },
+  {
+   "name": "Software, Developer",
+   "children": [
+    {
+     "name": "Saeid K."
+    },
+    {
+     "name": "Tanvir S."
+    }
+   ]
+  },
+  {
+   "name": "Head, Of",
+   "children": [
+    {
+     "name": "Adil S."
+    },
+    {
+     "name": "Michael R."
+    }
+   ]
+  },
+  {
+   "name": "OLX, Markets",
+   "children": [
+    {
+     "name": "Suresh K."
+    },
+    {
+     "name": "Sergey G."
+    }
+   ]
+  },
+  {
+   "name": "OLX",
+   "children": [
+    {
+     "name": "Craig A."
+    },
+    {
+     "name": "Nuno C."
+    },
+    {
+     "name": "Natanael D."
+    }
+   ]
+  },
+  {
+   "name": "Business, Intelligence",
+   "children": [
+    {
+     "name": "Victor N."
+    },
+    {
+     "name": "Pavel B."
+    },
+    {
+     "name": "Siddharth T."
+    },
+    {
+     "name": "Mikhail K."
+    },
+    {
+     "name": "Lars H."
+    },
+    {
+     "name": "Sadeeq Akinyemi A."
+    }
+   ]
+  },
+  {
+   "name": "Data, Science",
+   "children": [
+    {
+     "name": "Ahmad K."
+    },
+    {
+     "name": "Josh H."
+    },
+    {
+     "name": "Ayush T."
+    },
+    {
+     "name": "Karthik K."
+    },
+    {
+     "name": "Rishi S."
+    },
+    {
+     "name": "Davide B."
+    },
+    {
+     "name": "Jairaj S."
+    },
+    {
+     "name": "Debajyoti M."
+    },
+    {
+     "name": "Sowmya A."
+    },
+    {
+     "name": "Pavlos P."
+    },
+    {
+     "name": "Dr. Christian E."
+    },
+    {
+     "name": "Kire H."
+    },
+    {
+     "name": "Alexander L."
+    }
+   ]
+  },
+  {
+   "name": "Data, Scientist",
+   "children": [
+    {
+     "name": "Marcus B."
+    },
+    {
+     "name": "Pawan K."
+    },
+    {
+     "name": "Rameshreddy P."
+    },
+    {
+     "name": "Jennifer G."
+    },
+    {
+     "name": "Ali L."
+    },
+    {
+     "name": "Dr. Shahzad C."
+    },
+    {
+     "name": "Micaela M. K."
+    },
+    {
+     "name": "Rajeev J."
+    },
+    {
+     "name": "Dr. Christof H."
+    },
+    {
+     "name": "Ramkrishna P."
+    },
+    {
+     "name": "Victoria L."
+    },
+    {
+     "name": "Mohamed Amine S."
+    },
+    {
+     "name": "Sebastian S."
+    },
+    {
+     "name": "Emmanouil T."
+    },
+    {
+     "name": "Shashank B."
+    }
+   ]
+  },
+  {
+   "name": "Project, IT",
+   "children": [
+    {
+     "name": "Marcus B."
+    },
+    {
+     "name": "Mohit K."
+    },
+    {
+     "name": "Sebastian S."
+    }
+   ]
+  },
+  {
+   "name": "Senior, Manager",
+   "children": [
+    {
+     "name": "Bastian M."
+    },
+    {
+     "name": "Alexander (Alex) K."
+    }
+   ]
+  },
+  {
+   "name": "Product, Manager",
+   "children": [
+    {
+     "name": "Hubert W."
+    },
+    {
+     "name": "Jeremy C."
+    },
+    {
+     "name": "Zissis K."
+    },
+    {
+     "name": "Jan S."
+    },
+    {
+     "name": "Dmitry L."
+    },
+    {
+     "name": "Carolina R."
+    },
+    {
+     "name": "Varsha L."
+    },
+    {
+     "name": "Abhishek M."
+    },
+    {
+     "name": "Rodrigo P."
+    }
+   ]
+  },
+  {
+   "name": "Data, Science",
+   "children": [
+    {
+     "name": "Tom C."
+    },
+    {
+     "name": "Helio P."
+    },
+    {
+     "name": "Oleg N."
+    },
+    {
+     "name": "Xander H."
+    }
+   ]
+  },
+  {
+   "name": "Vice, President",
+   "children": [
+    {
+     "name": "Mathew J."
+    },
+    {
+     "name": "Parisa J."
+    },
+    {
+     "name": "Jairaj S."
+    },
+    {
+     "name": "Sunny K."
+    },
+    {
+     "name": "Pavlos P."
+    },
+    {
+     "name": "Dr. Christian E."
+    },
+    {
+     "name": "Dr. Daniel R."
+    }
+   ]
+  },
+  {
+   "name": "Data, Science",
+   "children": [
+    {
+     "name": "Mathew J."
+    },
+    {
+     "name": "Michael K."
+    },
+    {
+     "name": "Samer F."
+    },
+    {
+     "name": "Dr. Lu\u00eds M."
+    },
+    {
+     "name": "Lewis F."
+    },
+    {
+     "name": "Kiran K."
+    },
+    {
+     "name": "Shreenivasa R."
+    },
+    {
+     "name": "Ivan T."
+    },
+    {
+     "name": "Ralf H."
+    }
+   ]
+  },
+  {
+   "name": "Global, Head",
+   "children": [
+    {
+     "name": "Rafa\u0142 G."
+    },
+    {
+     "name": "Ana Carolina G."
+    }
+   ]
+  },
+  {
+   "name": "Head, AI",
+   "children": [
+    {
+     "name": "Pawe\u0142 \u015a."
+    },
+    {
+     "name": "Luis G."
+    },
+    {
+     "name": "Ioannis Z."
+    },
+    {
+     "name": "Michel S."
+    },
+    {
+     "name": "Tomasz G."
+    },
+    {
+     "name": "Jorge C."
+    },
+    {
+     "name": "Magda W."
+    },
+    {
+     "name": "Robin V."
+    },
+    {
+     "name": "Paula G."
+    },
+    {
+     "name": "Mikhail K."
+    }
+   ]
+  },
+  {
+   "name": "AI",
+   "children": [
+    {
+     "name": "Adam K."
+    },
+    {
+     "name": "Rehan S."
+    },
+    {
+     "name": "Ali L."
+    },
+    {
+     "name": "Kenneth P."
+    },
+    {
+     "name": "Kire H."
+    },
+    {
+     "name": "Dilek S."
+    },
+    {
+     "name": "Ali M."
+    }
+   ]
+  },
+  {
+   "name": "Principal, Researcher",
+   "children": [
+    {
+     "name": "David L."
+    },
+    {
+     "name": "Omid S."
+    },
+    {
+     "name": "James R. P."
+    }
+   ]
+  },
+  {
+   "name": "Product, Analyst",
+   "children": [
+    {
+     "name": "George S."
+    },
+    {
+     "name": "Magdalena G."
+    },
+    {
+     "name": "Vamshi V."
+    },
+    {
+     "name": "Wojciech O."
+    },
+    {
+     "name": "Denis G."
+    }
+   ]
+  },
+  {
+   "name": "Research",
+   "children": [
+    {
+     "name": "Justin B."
+    },
+    {
+     "name": "Raj S."
+    },
+    {
+     "name": "Giuseppe C."
+    },
+    {
+     "name": "Kishaloy H."
+    }
+   ]
+  },
+  {
+   "name": "Research, Engineer",
+   "children": [
+    {
+     "name": "Yiannis G."
+    },
+    {
+     "name": "Evgenii K."
+    }
+   ]
+  },
+  {
+   "name": "Manager, -",
+   "children": [
+    {
+     "name": "Kenneth P."
+    },
+    {
+     "name": "Siddharth T."
+    }
+   ]
+  },
+  {
+   "name": "Development, Engineer",
+   "children": [
+    {
+     "name": "Satya Prakash S."
+    },
+    {
+     "name": "Junaid A."
+    }
+   ]
+  },
+  {
+   "name": "Software, Engineer",
+   "children": [
+    {
+     "name": "Mat\u00edas Gabriel V."
+    },
+    {
+     "name": "Barbara D."
+    },
+    {
+     "name": "Tiaan L."
+    },
+    {
+     "name": "Maxim T."
+    },
+    {
+     "name": "Nikos K."
+    },
+    {
+     "name": "Manos K."
+    },
+    {
+     "name": "Gil V."
+    },
+    {
+     "name": "Jarek O."
+    },
+    {
+     "name": "Jamshid R."
+    },
+    {
+     "name": "Illia S."
+    },
+    {
+     "name": "George P."
+    },
+    {
+     "name": "Vasileios C."
+    },
+    {
+     "name": "Danish A."
+    }
+   ]
+  },
+  {
+   "name": "Product",
+   "children": [
+    {
+     "name": "Ioannis Z."
+    },
+    {
+     "name": "Aleksandra P."
+    },
+    {
+     "name": "Krishnaraj P."
+    },
+    {
+     "name": "Srikant V."
+    },
+    {
+     "name": "Vedansh .."
+    }
+   ]
+  },
+  {
+   "name": "Strategy",
+   "children": [
+    {
+     "name": "Kristina V."
+    },
+    {
+     "name": "Jo\u00e3o R."
+    },
+    {
+     "name": "Robin V."
+    }
+   ]
+  },
+  {
+   "name": "Analytics",
+   "children": [
+    {
+     "name": "Davide B."
+    },
+    {
+     "name": "Mem B."
+    },
+    {
+     "name": "Krishnaraj P."
+    },
+    {
+     "name": "Xander H."
+    }
+   ]
+  },
+  {
+   "name": "Consultant",
+   "children": [
+    {
+     "name": "Eric A."
+    },
+    {
+     "name": "Kaushal S."
+    },
+    {
+     "name": "Sonakshi S."
+    },
+    {
+     "name": "Donaji R."
+    },
+    {
+     "name": "Kire H."
+    },
+    {
+     "name": "Krzysztof Z."
+    }
+   ]
+  },
+  {
+   "name": "Head, Data",
+   "children": [
+    {
+     "name": "Mark T."
+    },
+    {
+     "name": "Pavel P."
+    }
+   ]
+  },
+  {
+   "name": "Sales, Development",
+   "children": [
+    {
+     "name": "Kyri D."
+    },
+    {
+     "name": "Ollie D."
+    }
+   ]
+  }
+ ]
+}
