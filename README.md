@@ -1,7 +1,9 @@
 # LinkedIn Analysis
 
 
-The goal is to detect if an image (or group of images) is blurry or has low contrast and store the result in a json file
+The goal is to visualize a persons LinkedIn network data in order to show the main patterns in connections 
+(companies and roles, etc). This is done using a treemap structure, as well as a networkx graph (in the latter
+case after clustering on cosine similarities of the TFIDF vector representations of the company names). 
 
 ```bash
 # Example usage: 
