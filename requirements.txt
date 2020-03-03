@@ -84,7 +84,6 @@ py==1.8.0
 py-d3==0.3.0
 pyarrow==0.7.1
 pyasn1==0.4.4
-PyAthena==1.7.1
 pylint==2.4.2
 pyparsing==2.4.2
 qtconsole==4.5.5
