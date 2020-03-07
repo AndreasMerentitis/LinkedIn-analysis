@@ -12,6 +12,7 @@ $ jupyter notebook
 ```
 
 ![relative path 1](/Network_treemap.jpeg?raw=true "Network_treemap.jpeg")
+![relative path 2](/Interactive_graph.jpeg?raw=true "Interactive_graph.jpeg")
 
 
 # Extending and reusing the basic idea from these sources:
