@@ -1,9 +1,9 @@
+bokeh==0.12.16
 boto3==1.9.253
 botocore==1.12.253
 cluster==1.4.1.post2
 colorama==0.3.9
 colour==0.1.5
-flair==0.4.3
 flake8==3.5.0
 Flask==1.0.2
 Flask-Cors==3.0.4
@@ -29,7 +29,6 @@ h5py==2.9.0
 holoviews==1.9.4
 html5lib==0.9999999
 htmlmin==0.1.12
-hyperopt==0.2.1
 icc-rt==2019.0
 idna==2.8
 ijson==2.3
