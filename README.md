@@ -6,9 +6,14 @@ The goal is to visualize a persons LinkedIn network data in order to show the ma
 case after clustering on cosine similarities of the TFIDF vector representations of the company names). 
 
 ```bash
-# Example usage: 
+# Example usage (natively): 
 $ pip install -r requirements.txt
 $ jupyter notebook 
+```
+
+```bash
+# Example usage (in docker): 
+$ jupyter-repo2docker https://github.com/AndreasMerentitis/LinkedIn-analysis
 ```
 
 ![relative path 1](/Network_treemap.jpeg?raw=true "Network_treemap.jpeg")
