@@ -17,6 +17,7 @@ $ jupyter notebook
 
 ```bash
 # Example usage (in docker): 
+$ sudo service docker restart
 $ jupyter-repo2docker https://github.com/AndreasMerentitis/LinkedIn-analysis
 ```
 
