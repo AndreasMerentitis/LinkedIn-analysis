@@ -1,4 +1,4 @@
-# LinkedIn Analysis
+# LinkedIn data analysis
 
 
 The goal is to visualize a persons LinkedIn network data in order to show the main patterns in connections 
