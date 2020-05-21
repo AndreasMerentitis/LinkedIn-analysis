@@ -1,7 +1,6 @@
 # LinkedIn data analysis
 
-
-The goal is to visualize a person's LinkedIn network data in order to show the main patterns in connections 
+The goal is to visualize a person's LinkedIn network data in order to show the main patterns in their connections 
 (companies and roles, etc). This is done using a treemap structure, as well as a networkx graph (in the latter
 case after clustering on cosine similarities of the TFIDF vector representations of the company names). 
 
