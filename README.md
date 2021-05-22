@@ -1,11 +1,10 @@
 # LinkedIn data analysis
 
-
-The goal is to visualize a persons LinkedIn network data in order to show the main patterns in connections 
+The goal is to visualize a person's LinkedIn network data in order to show the main patterns in their connections 
 (companies and roles, etc). This is done using a treemap structure, as well as a networkx graph (in the latter
 case after clustering on cosine similarities of the TFIDF vector representations of the company names). 
 
-The example is tested using python 3.6 natively and 3.8 in the docker version. You can run the demo either 
+The example was tested using python 3.6 natively and 3.8 in the docker version. You can run the demo either 
 directly (natively) or use repo2docker to configure and run in docker respectively.
 
 
