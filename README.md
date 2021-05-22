@@ -28,6 +28,7 @@ $ jupyter-repo2docker https://github.com/AndreasMerentitis/LinkedIn-analysis
 # Extending and reusing the basic idea from these sources:
 * https://medium.com/@tavish.gobindram/visualizing-my-linkedin-network-c4b232ab2ad0
 * https://docs.bokeh.org/en/latest/docs/user_guide/graph.html
+* https://towardsdatascience.com/sentiment-analysis-of-linkedin-messages-3bb152307f84
 
 
 
